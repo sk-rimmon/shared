@@ -1,0 +1,28 @@
+<Dictionary>
+  <Words>
+    <Unrecognized>
+    </Unrecognized>
+    <Recognized>
+      <Word>ASCII</Word>
+      <Word>IEnumerable</Word>
+      <Word>IP</Word>
+      <Word>JS</Word>
+      <Word>MVC</Word>
+      <Word>XPath</Word>
+      <Word>XSS</Word>
+    </Recognized>
+    <Deprecated>
+    </Deprecated>
+    <Compound>
+      <Term CompoundAlternate="StackTrace">stacktrace</Term>
+    </Compound>
+    <DiscreteExceptions>
+    </DiscreteExceptions>
+  </Words>
+  <Acronyms>
+    <CasingExceptions>
+      <Acronym>XSS</Acronym>
+      <Acronym>MVC</Acronym>
+    </CasingExceptions>
+  </Acronyms>
+</Dictionary>
